@@ -1,4 +1,4 @@
-# Sentiment classification based on multi-attention bidirectional gated spiking neural P system
+# MA-BiGSNP
 This is our Keras implementation for our paper.
 # Requirements
 keras 2.1.2    
